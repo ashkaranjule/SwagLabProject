@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-05T20:48:46 IST" name="Default suite" finished-at="2023-10-05T20:50:36 IST" duration-ms="110704">
+    <groups>
+    </groups>
+    <test started-at="2023-10-05T20:48:46 IST" name="Default test" finished-at="2023-10-05T20:50:36 IST" duration-ms="110704">
+      <class name="tests.CheckOut">
+        <test-method is-config="true" signature="startreport()[pri:0, instance:tests.CheckOut@2e5c7f0b]" started-at="2023-10-05T20:48:43 IST" name="startreport" finished-at="2023-10-05T20:48:46 IST" duration-ms="2685" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startreport -->
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:tests.CheckOut@2e5c7f0b]" started-at="2023-10-05T20:48:46 IST" name="openbrowser" finished-at="2023-10-05T20:49:12 IST" duration-ms="25962" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="login_check()[pri:1, instance:tests.CheckOut@2e5c7f0b]" started-at="2023-10-05T20:49:12 IST" name="login_check" finished-at="2023-10-05T20:49:58 IST" duration-ms="45532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_check -->
+        <test-method signature="loginuser()[pri:2, instance:tests.CheckOut@2e5c7f0b]" started-at="2023-10-05T20:49:58 IST" name="loginuser" finished-at="2023-10-05T20:50:00 IST" duration-ms="2524" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginuser -->
+        <test-method signature="productcheck()[pri:3, instance:tests.CheckOut@2e5c7f0b]" started-at="2023-10-05T20:50:01 IST" name="productcheck" finished-at="2023-10-05T20:50:03 IST" duration-ms="2549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productcheck -->
+        <test-method signature="buyitems()[pri:4, instance:tests.CheckOut@2e5c7f0b]" started-at="2023-10-05T20:50:03 IST" name="buyitems" finished-at="2023-10-05T20:50:15 IST" duration-ms="12398" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buyitems -->
+        <test-method signature="removeitems()[pri:5, instance:tests.CheckOut@2e5c7f0b]" started-at="2023-10-05T20:50:16 IST" name="removeitems" finished-at="2023-10-05T20:50:25 IST" duration-ms="9483" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeitems -->
+        <test-method signature="payment()[pri:6, instance:tests.CheckOut@2e5c7f0b]" started-at="2023-10-05T20:50:25 IST" name="payment" finished-at="2023-10-05T20:50:35 IST" duration-ms="10187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- payment -->
+        <test-method is-config="true" signature="close_browser()[pri:0, instance:tests.CheckOut@2e5c7f0b]" started-at="2023-10-05T20:50:35 IST" name="close_browser" finished-at="2023-10-05T20:50:36 IST" duration-ms="1232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_browser -->
+        <test-method is-config="true" signature="endreport()[pri:0, instance:tests.CheckOut@2e5c7f0b]" started-at="2023-10-05T20:50:37 IST" name="endreport" finished-at="2023-10-05T20:50:40 IST" duration-ms="2980" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endreport -->
+      </class> <!-- tests.CheckOut -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
